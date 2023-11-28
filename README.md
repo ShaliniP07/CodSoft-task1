@@ -1,12 +1,12 @@
-## CodSoft-task1
-# To-do List application in Python programming Language
-# Author: Shalini P
-# Batch: (1 November- 30 November,2023)
-# Domain: 
+# CodSoft-task1
+## To-do List application in Python programming Language
+## Author: Shalini P
+## Batch: (1 November- 30 November,2023)
+## Domain: 
 Python Programming
-# Aim: 
+## Aim: 
 To build a To-Do List application
-# Description/Working of Code:
+## Description/Working of Code:
 1. First, the necessary modules are imported, such as tkinter, sqlite3, and messagebox.
 
 2. Next, a connection is established with the SQLite database named 'listOfTasks.db'.
